@@ -17,7 +17,7 @@ body {
 }
 
 section {
-    display: flex;
+    display: ;
     margin-bottom: 100px;
 }
 
@@ -48,4 +48,8 @@ section {
     background-image: url(images/dream-bg.png);
     background-position: right;
     background-repeat: no-repeat;
+}
+
+.flexible {
+    display: flex;
 }
